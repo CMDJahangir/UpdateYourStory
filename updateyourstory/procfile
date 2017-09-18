@@ -1,0 +1,1 @@
+web: gunicorn updateyourstory.wsgi --log-file -
